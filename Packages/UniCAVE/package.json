@@ -1,0 +1,11 @@
+{
+  "name": "com.widve.unicave",
+  "version": "2.0.1",
+  "displayName": "UniCAVE Plugin",
+  "description": "Scripts and assets for setting up non-head mounted virtual reality display systems.",
+  "unity": "2019.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.0.1"
+  },
+  "type": "library"
+}
